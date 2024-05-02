@@ -1,0 +1,16 @@
+.contactHeader {
+	margin-left: 108px;
+}
+
+.contactHeader h1 {
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.contactHeader p {
+	color: gray;
+	font-size: 12px;
+	font-weight: 600;
+	max-width: 975px;
+}
